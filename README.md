@@ -16,4 +16,4 @@ To be added as a member, please be sure to:
 
 **DO NOT WAIT** until just before project presentations start or your request may be lost in the chaos.
 
-For more info on the Hackathon, including the complete and most up to date agenda, please see the [Hackathon Wiki](https://wiki.ietf.org/en/meeting/120/hackathon).
+For more info on the Hackathon, including the complete and most up to date agenda, please see the [Hackathon Wiki](https://wiki.ietf.org/en/meeting/121/hackathon).
